@@ -5,8 +5,3 @@
 - 😄 Pronouns: ... Ahmed Anis
 - ⚡ Fun fact: I'm  only 16 years old🤷‍♀️
 - 🙌I'V coded more than 100 apps/scripts for now ... (26/5/2026)
-
-<!---
-AhnadMAnis/AhnadMAnis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
