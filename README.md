@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AhnadMAnis
+- 👋 Hi, I’m @AhmadMAnis
 - 👀 I’m interested in programing windows apps, web apps, and cybersecurity/networking.
-- 😊I'V already learned Python, HTML, Flask, MySQL, PHP, CSS, C++ JSC
+- 😊I'V already learned Python, HTML, Flask, MySQL, PHP, CSS, C++, JSC, and Linux (CyberSecurity).
 - 📫 How to reach me ... whatsapp (+201033047120) email (maahmedanis2@gmail.com)
 - 😄 Pronouns: ... Ahmed Anis
 - ⚡ Fun fact: I'm  only 16 years old🤷‍♀️
